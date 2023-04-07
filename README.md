@@ -1,3 +1,5 @@
+MERN Stack Admin Dashboard App. For frontend:using Material UI, Material UI Data Grid, Nivo Charts, Redux Toolkit and Redux Toolkit Query. For backend: using Node JS, Express Js, Mongoose, and MongoDB. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
